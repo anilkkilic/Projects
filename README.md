@@ -3,3 +3,4 @@
 - Some Classification and Clustering Problems and Their Solutions in Statistical Terms Using Wine Data (project.py)
 - Basic imdb (code.py)
 - Automation of a Chess Tournament (chess.py)
+- Titanic Survival Prediction
