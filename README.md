@@ -1,5 +1,5 @@
 - Population Prediction with Linear Regression
-- Bank Credit Clustering people with K-Means
+- Bank Credit Clustering People with K-Means
 - Some Classification and Clustering Problems with Solutions in Statistical Terms Using Wine Data (Project.py - Figure_1.png)
 - Basic imdb (code.py)
 - Automation of a Chess Tournament (chess.py)
