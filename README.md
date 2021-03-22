@@ -1,6 +1,6 @@
 - Population Prediction with Linear Regression
 - Bank Credit Clustering people with K-Means
-- Some Classification and Clustering Problems and Their Solutions in Statistical Terms Using Wine Data (project.py - Figure_1.png)
+- Some Classification and Clustering Problems with Solutions in Statistical Terms Using Wine Data (project.py - Figure_1.png)
 - Basic imdb (code.py)
 - Automation of a Chess Tournament (chess.py)
 - Titanic Survival Prediction
